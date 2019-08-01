@@ -1,0 +1,7 @@
+D:\Uni work\Code\C#\test2\bin\Debug\test2.exe.config
+D:\Uni work\Code\C#\test2\bin\Debug\test2.exe
+D:\Uni work\Code\C#\test2\bin\Debug\test2.pdb
+D:\Uni work\Code\C#\test2\obj\Debug\test2.csprojAssemblyReference.cache
+D:\Uni work\Code\C#\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
+D:\Uni work\Code\C#\test2\obj\Debug\test2.exe
+D:\Uni work\Code\C#\test2\obj\Debug\test2.pdb

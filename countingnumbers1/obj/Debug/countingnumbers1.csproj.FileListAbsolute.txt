@@ -1,0 +1,7 @@
+D:\Uni work\Code\C#\countingnumbers1\bin\Debug\countingnumbers1.exe.config
+D:\Uni work\Code\C#\countingnumbers1\bin\Debug\countingnumbers1.exe
+D:\Uni work\Code\C#\countingnumbers1\bin\Debug\countingnumbers1.pdb
+D:\Uni work\Code\C#\countingnumbers1\obj\Debug\countingnumbers1.csprojAssemblyReference.cache
+D:\Uni work\Code\C#\countingnumbers1\obj\Debug\countingnumbers1.csproj.CoreCompileInputs.cache
+D:\Uni work\Code\C#\countingnumbers1\obj\Debug\countingnumbers1.exe
+D:\Uni work\Code\C#\countingnumbers1\obj\Debug\countingnumbers1.pdb
